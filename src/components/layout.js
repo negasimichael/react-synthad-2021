@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useAppContext } from '../context'
-
+// style
 const ControlsContainer = styled.div`
   display: flex;
   justify-content: space-between;
